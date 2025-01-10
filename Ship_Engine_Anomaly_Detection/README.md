@@ -1,4 +1,4 @@
-# My first mini-project: Detecting the anomalous activity of a ship’s engine! - *Unsupervised Anomaly Detection (No Ground Truth)
+# My first mini-project: Detecting the anomalous activity of a ship’s engine! - Unsupervised Anomaly Detection (No Ground Truth)
 
 ## Background context:
 
