@@ -1,4 +1,4 @@
-# My second mini-project: Customer segmentation with clustering using k-means clustering
+# My second mini-project: Customer segmentation with clustering using K-means clustering and Hierarchical clustering
 
 ## Background context:
 
@@ -6,4 +6,4 @@ Understanding and serving customers are two of the retail industry's most import
 
 Customer segmentation allows a business to group customers based on demographics (e.g. age, gender, education, occupation, marital status, family size), geographics (e.g. country, transportation, preferred language), psychographics (e.g. lifestyle, values, personality, attitudes), behaviour (e.g. purchase history, brand loyalty, response to marketing activities), technographic (e.g. device type, browser type, original source), and needs (e.g. product features, service needs, delivery method).
 
-The challenge in this project is to apply critical thinking and machine learning concepts to design and implement clustering models to perform customer segmentation and improve marketing efforts.
+The challenge in this project is to apply critical thinking and machine learning concepts to design and implement clustering models to perform customer segmentation and improve marketing efforts. Applying k-means clustering, elbow method, silheoutte score, hierarchecal clustering
