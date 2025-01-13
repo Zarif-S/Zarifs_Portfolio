@@ -1,4 +1,4 @@
-# My second mini-project: Customer segmentation with clustering using K-means clustering and Hierarchical clustering
+# My second project: Customer segmentation with clustering using K-means clustering and Hierarchical clustering
 
 ## Background context
 This project focuses on customer segmentation using clustering techniques to improve marketing strategies in the retail industry. The dataset, consisting of e-commerce transactions from customers worldwide, includes features like purchase frequency, loyalty, and order details. The goal is to group customers based on their behavior and preferences to optimize marketing efforts and resource allocation.
