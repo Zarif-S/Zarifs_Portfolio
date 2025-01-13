@@ -1,9 +1,13 @@
 # My second mini-project: Customer segmentation with clustering using K-means clustering and Hierarchical clustering
 
-## Background context:
+## Background context
+This project focuses on customer segmentation using clustering techniques to improve marketing strategies in the retail industry. The dataset, consisting of e-commerce transactions from customers worldwide, includes features like purchase frequency, loyalty, and order details. The goal is to group customers based on their behavior and preferences to optimize marketing efforts and resource allocation.
 
-Understanding and serving customers are two of the retail industry's most important strategic marketing objectives. Knowing the customer allows businesses to be more customer-centric with improvements to metrics such as marketing efficiency, enhanced product development, increased customer satisfaction, better customer retention, price optimisation, and strategic resource allocation.
+## Objective
+The aim is to develop a clustering model to segment customers and guide targeted marketing. The project involves exploring and preprocessing data, applying feature engineering, and using machine learning to identify valuable customer segments based on metrics like frequency, recency, and customer lifetime value (CLV).
 
-Customer segmentation allows a business to group customers based on demographics (e.g. age, gender, education, occupation, marital status, family size), geographics (e.g. country, transportation, preferred language), psychographics (e.g. lifestyle, values, personality, attitudes), behaviour (e.g. purchase history, brand loyalty, response to marketing activities), technographic (e.g. device type, browser type, original source), and needs (e.g. product features, service needs, delivery method).
-
-The challenge in this project is to apply critical thinking and machine learning concepts to design and implement clustering models to perform customer segmentation and improve marketing efforts. Applying k-means clustering, elbow method, silheoutte score, hierarchecal clustering
+## What It Demonstrates
+This project demonstrates the ability to:
+- Analyze complex data and propose solutions.
+- Apply clustering techniques for customer segmentation.
+- Use feature engineering and dimensionality reduction to improve model performance and business insights.
