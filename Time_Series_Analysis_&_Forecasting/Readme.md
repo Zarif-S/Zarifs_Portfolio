@@ -3,3 +3,5 @@ In this project, time series data for two well-known books, The Alchemist and Th
 
 # Objective
 The primary objective of this project is to forecast the next 32 weeks of sales for the selected books using time series analysis and machine learning models. Key tasks include data preprocessing, performing statistical tests for stationarity, seasonality, and autocorrelation, and applying models like Auto ARIMA, XGBoost, and LSTM. The models are fine-tuned to improve performance, and results are evaluated using metrics like MAE and MAPE. The project aims to demonstrate the ability to handle complex data, apply advanced forecasting techniques, and compare model effectiveness in a business context.
+
+## Note - I was quite ill during this project so the code quality suffered, I have yet to finish my refinements that tidy this project up
