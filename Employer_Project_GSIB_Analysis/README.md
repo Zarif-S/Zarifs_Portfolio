@@ -15,6 +15,6 @@ overall. Well done.
 This is a challenging data science project, leveraging the latest methodologies/technologies on a complex
 and critical area of responsibility for the Bank of England. The way you approached the challenge resonated with us. Having worked in this field for many years, it was refreshing and inspiring to see how quickly you grasped the challenge and produced credible solutions with valuable insights. The team demonstrated strong skills in data engineering, data science, software development lifecycle and knowledge of LLM models.
 
-In particular Harry and I were impressed with your approach to the model selection process. (*Readers Note: The model selection process was one of the areas that I took the lead on).
+In particular Harry and I were impressed with your approach to the model selection process and the strategy. (*Readers Note: The model selection and strategy were key areas that I took the lead on along).
 
 You should be proud of your tremendous achievements and we wish you all the best for your career in Data Science.
