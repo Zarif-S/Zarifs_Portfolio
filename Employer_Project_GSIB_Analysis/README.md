@@ -18,3 +18,5 @@ and critical area of responsibility for the Bank of England. The way you approac
 In particular Harry and I were impressed with your approach to the model selection process. (*Readers Note: The model selection was one of the areas that I took the lead on along with the strategy for the project to provide insights).
 
 You should be proud of your tremendous achievements and we wish you all the best for your career in Data Science.
+
+<!-- Last updated: September 2025 -->
